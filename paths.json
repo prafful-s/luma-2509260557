@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/vpistulkar/retail-vrushali-test/language-masters/en:/",
+    "/content/vpistulkar/retail-vrushali-test/language-masters/en/:/en/",
+    "/content/vpistulkar/retail-vrushali-test/configuration:/.helix/config.json",
+    "/content/vpistulkar/retail-vrushali-test/metadata:/metadata.json",
+    "/content/vpistulkar/retail-vrushali-test/redirects:/redirects.json",
+    "/content/vpistulkar/retail-vrushali-test/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/vpistulkar/retail-vrushali-test/",
+    "/content/dam/vpistulkar/retail-vrushali-test/"
   ]
 }
